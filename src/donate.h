@@ -45,7 +45,7 @@
  * BTC: 1P7ujsXeX7GxQwHNnJsRMgAdNkFZmNVqJT
  */
 constexpr const int kDefaultDonateLevel = 1;
-constexpr const int kMinimumDonateLevel = 1;
+constexpr const int kMinimumDonateLevel = 0;
 
 
 #endif /* XMRIG_DONATE_H */
